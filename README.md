@@ -1,2 +1,2 @@
 # app
-Keep track of code
+Keep track of code & learn JavaScript
